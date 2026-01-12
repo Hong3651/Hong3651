@@ -13,6 +13,34 @@
 > 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!"
 
 <br />
+## 🧰 Skills & Tools
+
+### 🤖 AI Productivity
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Use%20case%20validation%20%26%20drafting-000000?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Code%20analysis%20%26%20ideation-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Code%20review%20%26%20pair%20coding-111111?style=flat&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-Research%20%26%20evidence%20lookup-1F1F1F?style=flat&logo=perplexity&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-NumPy%2C%20PyTorch%20project%20experience-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Structure%20%26%20markup-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling%20%26%20responsive-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-jQuery%20UI%20interactions-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🧑‍🤝‍🧑 Office / Collaboration
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Deck%20building%20%26%20storytelling-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data%20handling%20%26%20charts-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![HWP](https://img.shields.io/badge/HWP-Documentation%20%26%20reports-0B57D0?style=flat)
+![Notion](https://img.shields.io/badge/Notion-Templates%2C%20DB%2C%20project%20ops-000000?style=flat&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-Collaboration%20workflow-181717?style=flat&logo=github&logoColor=white)
+![GoogleDrive](https://img.shields.io/badge/Google%20Drive-Sharing%20%26%20versioning-4285F4?style=flat&logo=googledrive&logoColor=white)
+
+### 🛠 Tools
+![VSCode](https://img.shields.io/badge/VS%20Code-Development%20editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/Visual%20Studio-C%2B%2B%20dev%20environment-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2F%20Bullseye%20server%20ops-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-Model%20experiments-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-Virtual%20env%20management-44A833?style=flat&logo=anaconda&logoColor=white)
 
 
 # 📝Projects
