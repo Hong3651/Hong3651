@@ -46,7 +46,18 @@
 # 📝Projects
 지금까지 진행했던 프로젝트들 입니다.
 
-## 1. 스티브 따라잡스 | 발표 피드백 AI - 멀티모달분석
+##  LightGBM 기반 철강 공장 전력 소비량 예측 모델 개발 및 고도화 |  ML 모델링
+
+> -개발기간 : 2026.1.17 - 1.21 <br />
+> -핵심 역할 : Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(하이퍼파라미터, 모델 구조 비교)<br />
+>
+>> Language : Python 3.13+ <br />
+>> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost/LightBGM), Matplotlib/Seaborn, Git
+>
+>[프로젝트 상세 설명]
+(https://github.com/Hong3651/kWh_analysis.git)
+> 
+##  스티브 따라잡스 | 발표 피드백 AI - 멀티모달분석
 
 > -개발기간 : 2025.11.17 - 12.17
 >
@@ -65,7 +76,7 @@
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Steveddarajabs.git) 
 
-## 2. STS304 M형결함 Zero-Defect |  ML 모델링
+##  STS304 M형결함 Zero-Defect |  ML 모델링
 
 > -개발기간 : 2025.11.1 - 11.14 <br />
 > -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(하이퍼파라미터, 모델 구조 비교)<br />
@@ -75,7 +86,7 @@
 >
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_sts304.git)
-## 3. 인도 중고차 가격 예측 모델 | ML
+##  인도 중고차 가격 예측 모델 | ML
 
 > -개발기간 : 2025.10.27 - 11.2 <br />
 > -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(로지스틱 회귀, 의사결정나무, XGBoost등 )<br />
@@ -85,7 +96,7 @@
 >
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Indiausedcar.git)
-## 4. 선박 후판 공정 Scale 불량 예측 모델 | ML
+##  선박 후판 공정 Scale 불량 예측 모델 | ML
 
 > -개발기간 : 2025.10.22 - 10.27 <br />
 > -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(로지스틱 회귀, 의사결정나무, XGBoost등 )<br />
@@ -95,7 +106,7 @@
 >
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Steelplates.git)
-## 5. Autoswitchsensor | 육군 아이디어 경진대회
+##  Autoswitchsensor | 육군 아이디어 경진대회
 
 > -개발기간 : 2024.08.05 - 2024.08.14 <br />
 > -핵심 역할 : 아이디어 제안 및 구현, 아이디어 기획: “상시 폴링 + 이벤트 기반 경보 + 근거 스냅샷” 구조 제안, 구현: Telnet 접속/enable 처리, 명령 실행 및 출력 파싱, 이벤트 감지 로직 설계, 운용 관점 개선: 운영자가 즉시 조치할 수 있도록 핵심 정보(포트/이벤트/근거)를 요약하는 출력 방식 정리 <br />
@@ -107,7 +118,7 @@
 
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Autoswitchsensor.git)
-## 6. Codeship | 교내 해커톤 웹 프로그래밍 경진대회
+##  Codeship | 교내 해커톤 웹 프로그래밍 경진대회
 
 > -개발기간 : 2022.11.05 - 2024.08.14 <br />
 > -핵심 역할 : 팀장(ppt 발표), 아이디어 제안 및 구현, 간단한 기능 구현(회원가입, 로그인), 전체 UI/UX 디자인 방향 설정, 페이지 구조 및 정보 구조(IA) 설계 <br />
@@ -120,7 +131,7 @@
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Codeship_web.git) 
 
-## 7. 음악 추천 Turntable | Base on 라브베리파이
+##  음악 추천 Turntable | Base on 라브베리파이
 
 > -개발기간 : 2022.5.2 - 5.13 <br />
 > -핵심 역할 : 팀원, 아이디어 제안,Auto-Shuffle Deck 구현, h/w-s/w 연결 <br />
