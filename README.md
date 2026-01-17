@@ -52,7 +52,7 @@
 > -핵심 역할 : Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(하이퍼파라미터, 모델 구조 비교)<br />
 >
 >> Language : Python 3.13+ <br />
->> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost/LightBGM), Matplotlib/Seaborn, Git
+>> Skill : Pandas, NumPy, SciPy, scikit-learn(DecisionTree/RandomForest/XGBoost/LightBGM), Matplotlib/Seaborn, Git
 >
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/kWh_analysis.git)
