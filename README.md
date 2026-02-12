@@ -100,7 +100,7 @@
 스테인리스강 불량 예측&nbsp; `2025.11`&nbsp; `팀장`
 
 - 양품:불량 40:1 클래스 불균형 해결
-- ROSE-SMOTE + Native Categorical
+- ROS + SMOTE + Native Categorical
 - LightGBM + 임계값 조정
 
 ![sklearn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)
@@ -144,7 +144,7 @@
 
 **[Switch-Guard](https://github.com/Hong3651/Project_Autoswitchsensor)**
 
-스위치 장애 탐지, 육군 경진대회&nbsp; `2024.08`&nbsp; `개인`
+스위치 장애 탐지, 육군 경진대회&nbsp; `2025.08`&nbsp; `개인`
 
 - Telnet 백본 스위치 30초 주기 폴링
 - STP/Loop 루핑, 단절 조기 감지
