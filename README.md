@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0a192f,60:112240,100:1d3557&height=350&section=header&text=Jeongtaek%20Hong&fontSize=50&fontColor=ccd6f6&fontAlignY=30&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=50&descColor=58a6ff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,50:0a192f,100:112240&height=300&text=Jeongtaek%20Hong&fontSize=50&fontColor=ccd6f6&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=55&descColor=58a6ff&animation=fadeIn&stroke=1d3557&strokeWidth=2)
 
 <div align="center">
 
