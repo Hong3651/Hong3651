@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,50:0a192f,100:112240&height=300&text=Jeongtaek%20Hong&fontSize=50&fontColor=ccd6f6&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=55&descColor=58a6ff&animation=fadeIn&stroke=1d3557&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,50:0a192f,100:112240&height=300&text=Jeongtaek%20Hong&fontSize=50&fontColor=ccd6f6&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=19&descAlignY=55&descColor=58a6ff&animation=fadeIn&stroke=1d3557&strokeWidth=2)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=200&color=58A6FF&center=true&vCenter=true&random=false&width=480&height=40&lines=Shoot+for+the+moon.;Even+if+you+miss%2C+you'll+land+among+the+stars.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=15&duration=1500&pause=300&color=8b949e&center=true&vCenter=true&random=false&width=520&height=40&lines=%22%EB%8B%AC%EC%9D%84+%ED%96%A5%ED%95%B4+%EC%8F%98%EC%95%84%EB%9D%BC.+%EB%B9%97%EB%82%98%EA%B0%80%EB%8D%94%EB%9D%BC%EB%8F%84%2C+%EB%B3%84%EB%93%A4+%EC%82%AC%EC%9D%B4%EC%97%90+%EB%8B%BF%EC%9D%84+%EA%B2%83%EC%9D%B4%EB%8B%A4.%22;%E2%80%94+Les+Brown)](https://git.io/typing-svg)
 
 </div>
 
