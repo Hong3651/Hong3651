@@ -237,7 +237,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hong3651&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=64ffda&icon_color=64ffda&text_color=8892b0&ring_color=64ffda" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hong3651&hide_border=true&background=0a0e27&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Hong3651&hide_border=true&background=0a0e27&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="49%" />
 
 <br />
 
@@ -245,7 +245,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hong3651&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=64ffda)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hong3651&theme=onedark&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
