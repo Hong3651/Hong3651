@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1e3e,100:2d3561&height=250&section=header&text=Jeongtaek%20Hong&fontSize=55&fontColor=8892b0&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=55&descColor=64ffda&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0a192f,60:112240,100:1d3557&height=280&section=header&text=Jeongtaek%20Hong&fontSize=55&fontColor=ccd6f6&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=55&descColor=58a6ff&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Shoot+for+the+moon.;Even+if+you+miss%2C+you'll+land+among+the+stars.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=620&height=80&lines=Shoot+for+the+moon.;Even+if+you+miss%2C+you'll+land+among+the+stars.)](https://git.io/typing-svg)
 
 *"달을 목표로 하라. 실패하더라도 별들 사이로 떨어질 테니"* — Norman Vincent Peale
 
@@ -20,10 +20,10 @@
 
 <div align="center">
 
-[![Notion](https://img.shields.io/badge/Profile-0a0e27?style=for-the-badge&logo=notion&logoColor=64ffda)](https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link)
-[![Blog](https://img.shields.io/badge/Blog-0a0e27?style=for-the-badge&logo=naver&logoColor=64ffda)](https://blog.naver.com/ghd3651)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:hjt3651@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/Hong3651)
+[![Notion](https://img.shields.io/badge/Profile-020c1b?style=for-the-badge&logo=notion&logoColor=58a6ff)](https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link)
+[![Blog](https://img.shields.io/badge/Blog-020c1b?style=for-the-badge&logo=naver&logoColor=58a6ff)](https://blog.naver.com/ghd3651)
+[![Gmail](https://img.shields.io/badge/Gmail-020c1b?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:hjt3651@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-020c1b?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Hong3651)
 
 </div>
 
@@ -34,32 +34,32 @@
 <div align="center">
 
 ### AI / ML / DL
-![Python](https://img.shields.io/badge/Python-0a0e27?style=for-the-badge&logo=python&logoColor=64ffda)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e27?style=for-the-badge&logo=pytorch&logoColor=64ffda)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0e27?style=for-the-badge&logo=scikit-learn&logoColor=64ffda)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0a0e27?style=for-the-badge&logo=huggingface&logoColor=64ffda)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0e27?style=for-the-badge&logo=opencv&logoColor=64ffda)
+![Python](https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=58a6ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a192f?style=for-the-badge&logo=pytorch&logoColor=58a6ff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a192f?style=for-the-badge&logo=scikit-learn&logoColor=58a6ff)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0a192f?style=for-the-badge&logo=huggingface&logoColor=58a6ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a192f?style=for-the-badge&logo=opencv&logoColor=58a6ff)
 
 ### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-0a0e27?style=for-the-badge&logo=pandas&logoColor=8892b0)
-![NumPy](https://img.shields.io/badge/NumPy-0a0e27?style=for-the-badge&logo=numpy&logoColor=8892b0)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e27?style=for-the-badge&logoColor=8892b0)
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0e27?style=for-the-badge&logo=streamlit&logoColor=8892b0)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0e27?style=for-the-badge&logo=jupyter&logoColor=8892b0)
+![Pandas](https://img.shields.io/badge/Pandas-0a192f?style=for-the-badge&logo=pandas&logoColor=79c0ff)
+![NumPy](https://img.shields.io/badge/NumPy-0a192f?style=for-the-badge&logo=numpy&logoColor=79c0ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a192f?style=for-the-badge&logoColor=79c0ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a192f?style=for-the-badge&logo=streamlit&logoColor=79c0ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a192f?style=for-the-badge&logo=jupyter&logoColor=79c0ff)
 
 ### Web / Backend
-![Flask](https://img.shields.io/badge/Flask-0a0e27?style=for-the-badge&logo=flask&logoColor=ccd6f6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=for-the-badge&logo=javascript&logoColor=ccd6f6)
-![HTML5](https://img.shields.io/badge/HTML5-0a0e27?style=for-the-badge&logo=html5&logoColor=ccd6f6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0e27?style=for-the-badge&logo=bootstrap&logoColor=ccd6f6)
-![SQLite](https://img.shields.io/badge/SQLite-0a0e27?style=for-the-badge&logo=sqlite&logoColor=ccd6f6)
+![Flask](https://img.shields.io/badge/Flask-0a192f?style=for-the-badge&logo=flask&logoColor=8b949e)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=8b949e)
+![HTML5](https://img.shields.io/badge/HTML5-0a192f?style=for-the-badge&logo=html5&logoColor=8b949e)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a192f?style=for-the-badge&logo=bootstrap&logoColor=8b949e)
+![SQLite](https://img.shields.io/badge/SQLite-0a192f?style=for-the-badge&logo=sqlite&logoColor=8b949e)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-0a0e27?style=for-the-badge&logo=git&logoColor=8892b0)
-![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=8892b0)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0e27?style=for-the-badge&logo=visualstudiocode&logoColor=8892b0)
-![Linux](https://img.shields.io/badge/Linux-0a0e27?style=for-the-badge&logo=linux&logoColor=8892b0)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0a0e27?style=for-the-badge&logo=raspberrypi&logoColor=8892b0)
+![Git](https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=8b949e)
+![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=8b949e)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a192f?style=for-the-badge&logo=visualstudiocode&logoColor=8b949e)
+![Linux](https://img.shields.io/badge/Linux-0a192f?style=for-the-badge&logo=linux&logoColor=8b949e)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0a192f?style=for-the-badge&logo=raspberrypi&logoColor=8b949e)
 
 </div>
 
@@ -83,10 +83,10 @@
 - LLM 기반 코칭 리포트 자동 생성
 - Whisper STT → KSS 문장분리 → klue/roberta-large 감정분석
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1e3e?style=flat-square&logo=pytorch&logoColor=64ffda)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1e3e?style=flat-square&logo=opencv&logoColor=64ffda)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1e3e?style=flat-square&logo=huggingface&logoColor=64ffda)
-![React](https://img.shields.io/badge/React-1a1e3e?style=flat-square&logo=react&logoColor=64ffda)
+![PyTorch](https://img.shields.io/badge/PyTorch-112240?style=flat-square&logo=pytorch&logoColor=58a6ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-112240?style=flat-square&logo=opencv&logoColor=58a6ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-112240?style=flat-square&logo=huggingface&logoColor=58a6ff)
+![React](https://img.shields.io/badge/React-112240?style=flat-square&logo=react&logoColor=58a6ff)
 
 </td>
 <td width="50%" valign="top">
@@ -101,10 +101,10 @@
 - 운영 스케줄 최적화로 **약 16% (31,046 kWh) 에너지 절감** 가능성 입증
 - Streamlit 대시보드 구축
 
-![LightGBM](https://img.shields.io/badge/LightGBM-1a1e3e?style=flat-square&logoColor=64ffda)
-![XGBoost](https://img.shields.io/badge/XGBoost-1a1e3e?style=flat-square&logoColor=64ffda)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1e3e?style=flat-square&logo=streamlit&logoColor=64ffda)
-![Pandas](https://img.shields.io/badge/Pandas-1a1e3e?style=flat-square&logo=pandas&logoColor=64ffda)
+![LightGBM](https://img.shields.io/badge/LightGBM-112240?style=flat-square&logoColor=58a6ff)
+![XGBoost](https://img.shields.io/badge/XGBoost-112240?style=flat-square&logoColor=58a6ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-112240?style=flat-square&logo=streamlit&logoColor=58a6ff)
+![Pandas](https://img.shields.io/badge/Pandas-112240?style=flat-square&logo=pandas&logoColor=58a6ff)
 
 </td>
 </tr>
@@ -125,9 +125,9 @@
 - ROSE-SMOTE + Native Categorical 전략 적용
 - LightGBM + 임계값 조정으로 Recall과 F1 동시 확보
 
-![scikit-learn](https://img.shields.io/badge/sklearn-1a1e3e?style=flat-square&logo=scikit-learn&logoColor=8892b0)
-![LightGBM](https://img.shields.io/badge/LightGBM-1a1e3e?style=flat-square&logoColor=8892b0)
-![SMOTE](https://img.shields.io/badge/SMOTE-1a1e3e?style=flat-square&logoColor=8892b0)
+![scikit-learn](https://img.shields.io/badge/sklearn-112240?style=flat-square&logo=scikit-learn&logoColor=79c0ff)
+![LightGBM](https://img.shields.io/badge/LightGBM-112240?style=flat-square&logoColor=79c0ff)
+![SMOTE](https://img.shields.io/badge/SMOTE-112240?style=flat-square&logoColor=79c0ff)
 
 </td>
 <td width="50%" valign="top">
@@ -141,9 +141,9 @@
 - XGBoost 최종 채택 — **Accuracy 0.997, F1 0.995, Precision 1.000**
 - 핵심 변수: rolling_temp, hsb, fur_soak_temp
 
-![XGBoost](https://img.shields.io/badge/XGBoost-1a1e3e?style=flat-square&logoColor=8892b0)
-![scikit-learn](https://img.shields.io/badge/sklearn-1a1e3e?style=flat-square&logo=scikit-learn&logoColor=8892b0)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1e3e?style=flat-square&logoColor=8892b0)
+![XGBoost](https://img.shields.io/badge/XGBoost-112240?style=flat-square&logoColor=79c0ff)
+![scikit-learn](https://img.shields.io/badge/sklearn-112240?style=flat-square&logo=scikit-learn&logoColor=79c0ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-112240?style=flat-square&logoColor=79c0ff)
 
 </td>
 </tr>
@@ -159,9 +159,9 @@
 - GradientBoostingRegressor 최종 채택
 - 핵심 변수: New_Price, vehicle_age, Kilometers_Driven
 
-![scikit-learn](https://img.shields.io/badge/sklearn-1a1e3e?style=flat-square&logo=scikit-learn&logoColor=8892b0)
-![Pandas](https://img.shields.io/badge/Pandas-1a1e3e?style=flat-square&logo=pandas&logoColor=8892b0)
-![SciPy](https://img.shields.io/badge/SciPy-1a1e3e?style=flat-square&logo=scipy&logoColor=8892b0)
+![scikit-learn](https://img.shields.io/badge/sklearn-112240?style=flat-square&logo=scikit-learn&logoColor=79c0ff)
+![Pandas](https://img.shields.io/badge/Pandas-112240?style=flat-square&logo=pandas&logoColor=79c0ff)
+![SciPy](https://img.shields.io/badge/SciPy-112240?style=flat-square&logo=scipy&logoColor=79c0ff)
 
 </td>
 <td width="50%"></td>
@@ -184,8 +184,8 @@
 - 포트 매핑(설계도/주기표)으로 문제 구간 즉시 식별
 - 이벤트 스냅샷 자동 저장 (10분 중복 방지)
 
-![Python](https://img.shields.io/badge/Python-1a1e3e?style=flat-square&logo=python&logoColor=ccd6f6)
-![Cisco](https://img.shields.io/badge/Cisco%20CLI-1a1e3e?style=flat-square&logo=cisco&logoColor=ccd6f6)
+![Python](https://img.shields.io/badge/Python-112240?style=flat-square&logo=python&logoColor=8b949e)
+![Cisco](https://img.shields.io/badge/Cisco%20CLI-112240?style=flat-square&logo=cisco&logoColor=8b949e)
 
 </td>
 <td width="50%" valign="top">
@@ -199,8 +199,8 @@
 - 전원 차단 후에도 state.json으로 재생 위치 복원 (Smart Resume)
 - systemd 서비스 등록 → 부팅 시 자동 실행
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1a1e3e?style=flat-square&logo=raspberrypi&logoColor=ccd6f6)
-![Python](https://img.shields.io/badge/Python-1a1e3e?style=flat-square&logo=python&logoColor=ccd6f6)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-112240?style=flat-square&logo=raspberrypi&logoColor=8b949e)
+![Python](https://img.shields.io/badge/Python-112240?style=flat-square&logo=python&logoColor=8b949e)
 
 </td>
 </tr>
@@ -221,9 +221,9 @@
 - 언플러그드 → 블록코딩 → 로봇코딩 학습 로드맵
 - 공지사항·커뮤니티·마켓·문의 기능 통합
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1e3e?style=flat-square&logo=javascript&logoColor=ccd6f6)
-![HTML5](https://img.shields.io/badge/HTML5-1a1e3e?style=flat-square&logo=html5&logoColor=ccd6f6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1e3e?style=flat-square&logo=bootstrap&logoColor=ccd6f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-112240?style=flat-square&logo=javascript&logoColor=8b949e)
+![HTML5](https://img.shields.io/badge/HTML5-112240?style=flat-square&logo=html5&logoColor=8b949e)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-112240?style=flat-square&logo=bootstrap&logoColor=8b949e)
 
 </td>
 <td width="50%"></td>
@@ -236,16 +236,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hong3651&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=64ffda&icon_color=64ffda&text_color=8892b0&ring_color=64ffda" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Hong3651&hide_border=true&background=0a0e27&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hong3651&show_icons=true&hide_border=true&bg_color=020c1b&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Hong3651&hide_border=true&background=020c1b&ring=58a6ff&fire=58a6ff&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="49%" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong3651&layout=compact&hide_border=true&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong3651&layout=compact&hide_border=true&bg_color=020c1b&title_color=58a6ff&text_color=8b949e&langs_count=8" width="49%" />
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hong3651&theme=onedark&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hong3651&bg_color=020c1b&color=58a6ff&line=1d3557&point=79c0ff&area=true&area_color=112240&hide_border=true" width="90%" />
 
 </div>
 
@@ -255,10 +255,10 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/hjt3651@gmail.com-0a0e27?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:hjt3651@gmail.com)
-[![Naver](https://img.shields.io/badge/ghd3651@naver.com-0a0e27?style=for-the-badge&logo=naver&logoColor=64ffda)](mailto:ghd3651@naver.com)
-[![Blog](https://img.shields.io/badge/Naver%20Blog-0a0e27?style=for-the-badge&logo=naver&logoColor=64ffda)](https://blog.naver.com/ghd3651)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/Hong3651)
+[![Gmail](https://img.shields.io/badge/hjt3651@gmail.com-020c1b?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:hjt3651@gmail.com)
+[![Naver](https://img.shields.io/badge/ghd3651@naver.com-020c1b?style=for-the-badge&logo=naver&logoColor=58a6ff)](mailto:ghd3651@naver.com)
+[![Blog](https://img.shields.io/badge/Naver%20Blog-020c1b?style=for-the-badge&logo=naver&logoColor=58a6ff)](https://blog.naver.com/ghd3651)
+[![GitHub](https://img.shields.io/badge/GitHub-020c1b?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Hong3651)
 
 </div>
 
@@ -266,8 +266,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hong3651&color=0a0e27&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Hong3651&color=112240&style=flat-square&label=Profile+Views)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d3561,50:1a1e3e,100:0a0e27&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,30:112240,60:0a192f,100:020c1b&height=120&section=footer)
