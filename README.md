@@ -1,110 +1,273 @@
-# 📜 홍정택 포트폴리오
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1FA2FF,50:12D8FA,100:A6FFCB&height=250&section=header&text=Jeongtaek%20Hong&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
 
->> 홍정택 (Jeongtaek Hong) <br />
->>
->> Motto <br />
->> “Shoot for the moon. Even if you miss, you'll land among the stars.”<br />달을 목표로 하라. 실패하더라도 별들 사이로 떨어질 테니<br />  – Norman Vincent Peale
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1FA2FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Shoot+for+the+moon.;Even+if+you+miss%2C+you'll+land+among+the+stars.)](https://git.io/typing-svg)
+
+*"달을 목표로 하라. 실패하더라도 별들 사이로 떨어질 테니"* — Norman Vincent Peale
+
+</div>
+
+---
+
+## 👋 About Me
+
+> 실패를 두려워하기보다 **도전 속에서 배우고 변화를 만들어 가는 엔지니어**, 홍정택입니다.
+>
+> 데이터로 현실 문제를 풀고, 실용적인 AI를 만들어 의사결정을 개선하는 것에 관심이 있습니다.
 
 <br />
 
-# 👋 Intro
+<div align="center">
 
-> 안녕하세요! "실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어"를 꿈꾸는 홍정택입니다! <br />
-> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!"
+[![Notion](https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/ghd3651)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjt3651@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hong3651)
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### AI / ML / DL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Web / Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+---
+
+## 📝 Projects
+
+### 🤖 AI / Deep Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [스티브 따라잡스 — 발표 피드백 AI](https://github.com/Hong3651/Project_Steveddarajabs)
+> **멀티모달 분석 기반 발표 코칭 시스템**
+
+`2025.11 — 12` · 팀장
+
+- 제스처(3D CNN) + 음성(Bi-LSTM) + 텍스트(Solar-pro2) **3채널 멀티모달 분석**
+- Gated Fusion MLP로 1,664-dim 특징 벡터 통합
+- LLM 기반 코칭 리포트 자동 생성
+- Whisper STT → KSS 문장분리 → klue/roberta-large 감정분석
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+#### [kWh 전력 사용량 분석](https://github.com/Hong3651/kWh_analysis)
+> **산업 시설 전력 최적화 모델링**
+
+`2026.01` · 개인
+
+- 철강 공장 15분 단위 전력 소비 데이터(~35,000행) 분석
+- LightGBM으로 **R² = 0.779** 달성
+- 운영 스케줄 최적화로 **약 16% (31,046 kWh) 에너지 절감** 가능성 입증
+- Streamlit 대시보드 구축
+
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🏭 제조 AI / 데이터 분석
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [STS304 M형결함 Zero-Defect](https://github.com/Hong3651/Project_sts304)
+> **스테인리스강 불량 예측 ML 모델링**
+
+`2025.11` · 팀장
+
+- 양품:불량 = **40:1** 극심한 클래스 불균형 해결
+- ROSE-SMOTE + Native Categorical 전략 적용
+- LightGBM + 임계값 조정으로 Recall과 F1 동시 확보
+
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
+![imbalanced-learn](https://img.shields.io/badge/SMOTE-4B8BBE?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [후판 공정 Scale 불량 예측](https://github.com/Hong3651/Project_Steelplates)
+> **선박용 후판 품질 안정화 모델**
+
+`2025.10` · 팀장
+
+- 도메인 기반 파생변수 설계 (shift_worker, heat_soak_diff 등)
+- XGBoost 최종 채택 — **Accuracy 0.997, F1 0.995, Precision 1.000**
+- 핵심 변수: rolling_temp, hsb, fur_soak_temp
+
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [인도 중고차 가격 예측](https://github.com/Hong3651/Project_Indiausedcar)
+> **중고차 시장 진출을 위한 가격 회귀 모델**
+
+`2025.10 — 11` · 팀장
+
+- 파생변수 생성 (vehicle_age, km_per_year, mileage_per_engine)
+- GradientBoostingRegressor 최종 채택
+- 핵심 변수: New_Price, vehicle_age, Kilometers_Driven
+
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### 🌐 IoT / 임베디드 · 네트워크
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Switch-Guard — 스위치 장애 탐지](https://github.com/Hong3651/Project_Autoswitchsensor)
+> **육군 아이디어 경진대회 출품작**
+
+`2024.08` · 개인
+
+- Telnet 기반 백본 스위치 30초 주기 상태 폴링
+- STP/Loop 루핑·단절 징후 조기 감지
+- 포트 매핑(설계도/주기표)으로 문제 구간 즉시 식별
+- 이벤트 스냅샷 자동 저장 (10분 중복 방지)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20CLI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Auto-Turntable — 음악 자동 재생](https://github.com/Hong3651/Project_Turntable)
+> **라즈베리파이 기반 스마트 턴테이블**
+
+`2022.05` · 팀원
+
+- Fisher-Yates Shuffle 기반 중복 없는 재생 덱
+- 전원 차단 후에도 state.json으로 재생 위치 복원 (Smart Resume)
+- systemd 서비스 등록 → 부팅 시 자동 실행
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 💻 웹 개발
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [CodeShip — 코딩 교육 플랫폼](https://github.com/Hong3651/Project_Codeship_web)
+> **교내 해커톤 웹 프로그래밍 경진대회 🏆 3등**
+
+`2022.11` · 팀장
+
+- 유아/초등생 대상 단계별 코딩 교육 커리큘럼
+- 언플러그드 → 블록코딩 → 로봇코딩 학습 로드맵
+- 공지사항·커뮤니티·마켓·문의 기능 통합
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hong3651&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1FA2FF&icon_color=12D8FA&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hong3651&theme=tokyonight&hide_border=true&background=0D1117&ring=1FA2FF&fire=12D8FA&currStreakLabel=A6FFCB" width="49%" />
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong3651&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1FA2FF&text_color=C9D1D9&langs_count=8" width="49%" />
 
-# 📝Projects
-지금까지 진행했던 프로젝트들 입니다.
+<br />
 
-## 1. 스티브 따라잡스 | 발표 피드백 AI - 멀티모달분석
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hong3651&theme=algolia&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-> -개발기간 : 2025.11.17 - 12.17
->
-> -핵심 역할 : 팀장, Git 협업 추진, Vision/멀티모달 모델 성능 분석 및 비교 실험, 전체 파이프라인 구축 및 코드 정형화
->
->> Back-end (AI Core & Serving) <br />
->>
->> -Language : Python 3.10+ <br />
->> -Skill : Multimodal Deep Learning (Late Fusion), Model Optimization (Multi-GPU), Audio/Video Preprocessing, Prompt Engineering, PyTorch, Hugging Face Transformers, Librosa, OpenCV, Whisper, KSS, Pandas
->
->> Front-end (User Interface) <br />
->>
->> -Language : JavaScript (ES6+) <br />
->> -Skill : React.js, REST API Integration, Component-Based Architecture <br />
->>
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Steveddarajabs.git) 
+</div>
 
-## 2. STS304 M형결함 Zero-Defect |  ML 모델링
+---
 
-> -개발기간 : 2025.11.1 - 11.14 <br />
-> -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(하이퍼파라미터, 모델 구조 비교)<br />
->
->> Language : Python 3.10+ <br />
->> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest), imbalanced-learn(SMOTE), Matplotlib/Seaborn, Git
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_sts304.git)
-## 3. 인도 중고차 가격 예측 모델 | ML
+## 📞 Contact
 
-> -개발기간 : 2025.10.27 - 11.2 <br />
-> -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(로지스틱 회귀, 의사결정나무, XGBoost등 )<br />
->
->> Language : Python 3.10+ <br />
->> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost), Mat표 <br />
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Indiausedcar.git)
-## 4. 선박 후판 공정 Scale 불량 예측 모델 | ML
+<div align="center">
 
-> -개발기간 : 2025.10.22 - 10.27 <br />
-> -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(로지스틱 회귀, 의사결정나무, XGBoost등 )<br />
->
->> Language : Python 3.10+ <br />
->> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost), Mat표 <br />
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Steelplates.git)
-## 5. Autoswitchsensor | 육군 아이디어 경진대회
+[![Gmail](https://img.shields.io/badge/hjt3651@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjt3651@gmail.com)
+[![Naver](https://img.shields.io/badge/ghd3651@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ghd3651@naver.com)
+[![Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/ghd3651)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hong3651)
 
-> -개발기간 : 2024.08.05 - 2024.08.14 <br />
-> -핵심 역할 : 아이디어 제안 및 구현, 아이디어 기획: “상시 폴링 + 이벤트 기반 경보 + 근거 스냅샷” 구조 제안, 구현: Telnet 접속/enable 처리, 명령 실행 및 출력 파싱, 이벤트 감지 로직 설계, 운용 관점 개선: 운영자가 즉시 조치할 수 있도록 핵심 정보(포트/이벤트/근거)를 요약하는 출력 방식 정리 <br />
+</div>
 
-> -한줄 소개 : Telnet 기반 스위치 상태 폴링으로 루핑/단절 징후를 조기 탐지하고, 문제 포트 및 영향 범위를 즉시 확인할 수 있도록 설계한 경량 관제 도구 <br />
+<br />
 
->> Language : Python 3.10+ <br />
->> Skill : Telnet(원격접속), Cisco CLI(진단 명령), STP/Loop 개념, 로그 기반 이벤트 탐지, 콘솔 모니터링(TUI) <br />
+<div align="center">
 
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Autoswitchsensor.git)
-## 6. Codeship | 교내 해커톤 웹 프로그래밍 경진대회
+![Profile Views](https://komarev.com/ghpvc/?username=Hong3651&color=1FA2FF&style=flat-square&label=Profile+Views)
 
-> -개발기간 : 2022.11.05 - 2024.08.14 <br />
-> -핵심 역할 : 팀장(ppt 발표), 아이디어 제안 및 구현, 간단한 기능 구현(회원가입, 로그인), 전체 UI/UX 디자인 방향 설정, 페이지 구조 및 정보 구조(IA) 설계 <br />
->
-> -한줄 소개 : 유아 및 초등생을 위한 단계별 코딩 교육 커리큘럼 웹 플랫폼,
-연령별 발달 단계에 맞춘 코딩 커리큘럼(언플러그드 → 블록코딩 → 로봇코딩)을 제공하고,공지·커뮤니티·마켓·문의 기능까지 포함한 **코딩 교육 통합 웹사이트** 프로젝트. <br />
->> Language : JavaScript <br />
->> Skill : HTML5  <br />
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Codeship_web.git) 
+</div>
 
-## 7. 음악 추천 Turntable | Base on 라브베리파이
-
-> -개발기간 : 2022.5.2 - 5.13 <br />
-> -핵심 역할 : 팀원, 아이디어 제안,Auto-Shuffle Deck 구현, h/w-s/w 연결 <br />
->
->> Language : Python 3.9.+ <br />
->> Skill : python _ vlc
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Turntable.git) 
-
-# 📞 Contact
-- 이메일 : hjt3651@gmail.com / ghd3651@naver.com<br />
-- 블로그 : https://blog.naver.com/ghd3651<br />
-- 깃허브 : https://github.com/Hong3651/Portfolio_Hong.git
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1FA2FF,50:12D8FA,100:A6FFCB&height=120&section=footer)
