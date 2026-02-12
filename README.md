@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=15&duration=1500&pause=300&color=8b949e&center=true&vCenter=true&random=false&width=520&height=40&lines=%22%EB%8B%AC%EC%9D%84+%ED%96%A5%ED%95%B4+%EC%8F%98%EC%95%84%EB%9D%BC.+%EB%B9%97%EB%82%98%EA%B0%80%EB%8D%94%EB%9D%BC%EB%8F%84%2C+%EB%B3%84%EB%93%A4+%EC%82%AC%EC%9D%B4%EC%97%90+%EB%8B%BF%EC%9D%84+%EA%B2%83%EC%9D%B4%EB%8B%A4.%22;%E2%80%94+Les+Brown)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=200&color=58A6FF&center=true&vCenter=true&random=false&width=480&height=40&lines=Shoot+for+the+moon.;Even+if+you+miss%2C+you'll+land+among+the+stars.)](https://git.io/typing-svg)
+
+*"달을 향해 쏘아라. 빗나가더라도, 별들 사이에 닿을 것이다."* &mdash; **Les Brown**
 
 </div>
 
@@ -12,20 +14,9 @@
 
 <div align="center">
 
-*실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어*
-
-</div>
+### *실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어*
 
 <br />
-
-- 현재 **NVIDIA GR00T N1.6** 기반 모듈러 로봇 시스템 연구 중
-- 제조 공정 데이터 분석, 불량 예측, 에너지 최적화 경험
-- 멀티모달 딥러닝 **(Vision + Audio + Text)** 파이프라인 구축
-- 서울 / 대전
-
-<br />
-
-<div align="center">
 
 [![Notion](https://img.shields.io/badge/Profile-000?style=flat-square&logo=notion&logoColor=fff)](https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link)&nbsp;
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=fff)](https://blog.naver.com/ghd3651)&nbsp;
@@ -219,20 +210,7 @@
 
 </div>
 
-<br />
-
-## Contact
-
 <div align="center">
-
-| | |
-|:---:|:---:|
-| **Email** | hjt3651@gmail.com / ghd3651@naver.com |
-| **Blog** | [blog.naver.com/ghd3651](https://blog.naver.com/ghd3651) |
-| **GitHub** | [github.com/Hong3651](https://github.com/Hong3651) |
-| **Notion** | [Profile](https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link) |
-
-<br />
 
 ![Total Views](https://komarev.com/ghpvc/?username=Hong3651&color=58a6ff&style=flat-square&label=Total+Profile+Views)
 
