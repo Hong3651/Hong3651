@@ -158,6 +158,33 @@
 </tr>
 </table>
 
+### Data Analysis
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Financial Vulnerability Score](https://github.com/Hong3651/household-financial-vulnerability)**
+
+가구 재무취약점수로 복지 사각지대 발굴 · 국가데이터 활용대회&nbsp; `2026.07`&nbsp; `개인`
+
+- MDIS 가계금융복지 91,213 가구-연도 패널 분석
+- 4팩터 재무취약점수 → 백테스트 AUC 0.890 (타깃 미학습·시점외 검증)
+- 소득 기준 밖 사각지대(부채발 14.1%) 발굴 → 정책 제언
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
+![sklearn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
 ### IoT / Web
 
 <table>
