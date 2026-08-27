@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,50:0a192f,100:112240&height=300&text=Jeongtaek%20Hong&fontSize=50&fontColor=ccd6f6&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=19&descAlignY=55&descColor=58a6ff&animation=fadeIn&stroke=1d3557&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,50:0a192f,100:112240&height=300&text=Jeongtaek%20Hong&fontSize=50&fontColor=ccd6f6&fontAlignY=35&desc=Robotics%20AI%20Engineer&descSize=19&descAlignY=55&descColor=58a6ff&animation=fadeIn&stroke=1d3557&strokeWidth=2)
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### *실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어*
+### *AI를 실제 로봇의 움직임으로 연결하는 Robotics AI Engineer*
 
 <br />
 
@@ -31,24 +31,50 @@
 
 <div align="center">
 
-[![AI Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,flask,js,html,bootstrap,sqlite,git,github,vscode,linux,raspberrypi&perline=13&theme=dark)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,pytorch,opencv,linux,git,github,vscode&perline=7&theme=dark)](https://skillicons.dev)
 
 <br />
 
+![LeRobot](https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-1B6AC6?style=flat-square)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=fff)
+![ManiSkill](https://img.shields.io/badge/ManiSkill-4B8BBE?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
 
 </div>
 
 <br />
 
 ## Projects
+
+### Robotics AI / Robot Learning
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**Robotics AI / VLA Infrastructure Engineer**&nbsp; `2026.01 ~ Present`
+
+범용 로봇팔에 VLA 모델을 적용하고, 로봇 학습 데이터가 수집부터 평가까지 흐르는 파이프라인을 만듭니다.
+
+- **Robot Control & Learning Pipeline** &mdash; 범용 로봇팔 기반 VLA 모델 적용, 로봇 제어 및 Robot Learning 실험 파이프라인 구성
+- **Robot Data Pipeline** &mdash; `Data Collection → Storage → Training → Inference → Evaluation` 전 구간 구축 및 운영
+- **VLA / Robot Foundation Models** &mdash; GR00T, X-VLA 등 VLA 모델 적용 및 비교 실험
+- **Simulation & Benchmark** &mdash; MuJoCo · LIBERO 기반 Robot Manipulation 태스크 simulation 검증
+- **Robot Learning Framework** &mdash; LeRobot 기반 dataset / training / inference 환경 활용
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
+![LeRobot](https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-1B6AC6?style=flat-square)
+![LIBERO](https://img.shields.io/badge/LIBERO-4B8BBE?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ### AI / Deep Learning
 
@@ -224,22 +250,21 @@
 
 <br />
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hong3651&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Hong3651&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ccd6f6&sideNums=ccd6f6&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="49%" />
+`◈ CONTRIBUTION MATRIX // ACTIVE ◈`
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="95%" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hong3651&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ccd6f6&area=true&area_color=112240&hide_border=true" width="90%" />
+![Profile Views](https://komarev.com/ghpvc/?username=Hong3651&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
+<br />
 
-<div align="center">
-
-![Total Views](https://komarev.com/ghpvc/?username=Hong3651&color=58a6ff&style=flat-square&label=Total+Profile+Views)
+`Robotics · AI · Learning · Building`
 
 </div>
 
