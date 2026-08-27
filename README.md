@@ -256,7 +256,10 @@
 
 `◈ CONTRIBUTION MATRIX // ACTIVE ◈`
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="95%" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="95%" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="47%" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="47%" />
 
 <br />
 
